@@ -4,7 +4,7 @@
 }
 
 :root{
-    --head-font: "Monument Extended Bold";
+    --head-font: myFont;
     --primary-font:  Arial, Helvetica, sans-serif;
 }
 
