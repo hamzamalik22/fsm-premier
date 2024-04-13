@@ -1,6 +1,6 @@
 @font-face{
     font-family: myFont;
-    src: url(css/monument.ttf);
+    src: url(../resources/monument.ttf);
 }
 
 :root{
