@@ -59,43 +59,43 @@
 
     /* ----------------------- New Section Begins -----------------------*/
 
-    .grid2{
+    .grid2 {
         width: 90%;
         height: 80%;
     }
-    
-    .grid2__left_top{
+
+    .grid2__left_top {
         padding: 0.9em;
         padding-bottom: 0em;
     }
-    
-    .grid2__left_top img{
+
+    .grid2__left_top img {
         height: 100%;
         width: 100%;
     }
-    
-    
-    .grid2__left_bottom{
+
+
+    .grid2__left_bottom {
         padding: 0.9em;
     }
 
-    .grid2__left_bottom p{
+    .grid2__left_bottom p {
         font-size: 0.8rem;
     }
-    
-    .grid2__right{
+
+    .grid2__right {
         padding: 0.9em;
-    
+
     }
-    
-    .grid2__right img{
+
+    .grid2__right img {
         width: 100%;
         height: 100%;
         object-fit: cover;
         object-position: 0 25%;
-    
+
     }
-    
+
 
     .hero2 {
         height: 80%;
@@ -220,42 +220,43 @@
 
     /* ----------------------- New Section Begins -----------------------*/
 
-    .grid2{
+    .grid2 {
         width: 90%;
         height: 70%;
     }
-    
-    .grid2__left_top{
+
+    .grid2__left_top {
         padding: 0.9em;
         padding-bottom: 0em;
     }
-    
-    .grid2__left_top img{
+
+    .grid2__left_top img {
         height: 100%;
         width: 100%;
     }
-    
-    
-    .grid2__left_bottom{
+
+
+    .grid2__left_bottom {
         padding: 0.9em;
     }
 
-    .grid2__left_bottom p{
+    .grid2__left_bottom p {
         font-size: 0.7rem;
     }
-    
-    .grid2__right{
+
+    .grid2__right {
         padding: 0.9em;
-    
+
     }
-    
-    .grid2__right img{
+
+    .grid2__right img {
         width: 100%;
         height: 100%;
         object-fit: cover;
         object-position: 0 25%;
-    
+
     }
+
     /* ----------------------- New Section Begins -----------------------*/
 
     .hero2 {
@@ -395,41 +396,41 @@
 
     /* ----------------------- New Section Begins -----------------------*/
 
-    .grid2{
+    .grid2 {
         width: 90%;
         height: 60%;
     }
-    
-    .grid2__left_top{
+
+    .grid2__left_top {
         padding: 0.8em;
         padding-bottom: 0em;
     }
-    
-    .grid2__left_top img{
+
+    .grid2__left_top img {
         height: 100%;
         width: 100%;
     }
-    
-    
-    .grid2__left_bottom{
+
+
+    .grid2__left_bottom {
         padding: 0.8em;
     }
 
-    .grid2__left_bottom p{
+    .grid2__left_bottom p {
         font-size: 0.6rem;
     }
-    
-    .grid2__right{
+
+    .grid2__right {
         padding: 0.8em;
-    
+
     }
-    
-    .grid2__right img{
+
+    .grid2__right img {
         width: 100%;
         height: 100%;
         object-fit: cover;
         object-position: 0 25%;
-    
+
     }
 
     /* ----------------------- New Section Begins -----------------------*/
@@ -508,41 +509,60 @@
 
     nav {
         height: 40px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0em 6vw;
     }
 
     nav .logo h1 {
-        padding: 0.6em 0;
+        font-size: 1.4rem;
+        padding: 0px 0px;
     }
 
-
-    nav .logo h1 {
-        font-size: 2.5vw;
-        padding: 1em 0;
+    nav .logo h1 sup {
+        font-size: 2vw;
+        font-weight: 400;
     }
-
 
     nav ul li {
-        font-size: 1.5vw;
+        display: none;
     }
 
-    nav ul li:nth-child(4) {
-        font-size: 1.3vw;
+    nav ul li:nth-child(5) {
+        display: initial;
+        border: none;
+        font-size: 1rem;
+        padding: 0;
     }
 
     /* ----------------------- New Section Begins -----------------------*/
 
     .hero {
-        height: 50%;
+        height: 35%;
     }
 
     .overlay {
         height: 40%;
     }
 
+    .overlay_part1 h2 {
+        font-size: 1.9vw;
+    }
+
+    .overlay_part2 {
+        border-top: 1.3px solid white;
+        padding-top: 0.4em;
+    }
+
+    .overlay_part2 h5 {
+        font-size: 1.5vw;
+    }
+
     /* ----------------------- New Section Begins -----------------------*/
 
     .model_slider {
-        height: 20%;
+        height: 15%;
     }
 
     /* ----------------------- New Section Begins -----------------------*/
@@ -568,56 +588,84 @@
 
     /* ------- New Section Begins -----------------------*/
 
+    .grid1 {
+        padding-top: 0em;
+    }
+
     .grid1__Right_bottom_left h3 {
-        padding: 0.5em;
-        width: 94%;
+        padding: 0em;
+        width: 100%;
         font-size: 2vw;
     }
 
     .grid1__Right_bottom_right p {
         padding: 1.25em;
-        padding-right: 0em;
-        width: 85%;
+        padding-right: 1.4em;
+        padding-top: 0em;
+        width: 100%;
         font-size: 1.45vw;
+    }
+
+    .grid1__Right_bottom_left {
+        padding: 1em;
+        padding-right: 0em;
+        padding-top: 0em;
+
+
     }
 
     /* ----------------------- New Section Begins -----------------------*/
 
-    .grid2{
+    .vougue {
+        /* background: crimson; */
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 2.5vw;
+    }
+
+    .vougue h1 {
+        font-family: var(--head-font);
+        font-size: 2.5vw;
+    }
+
+    /* ----------------------- New Section Begins -----------------------*/
+
+
+    .grid2 {
         width: 90%;
         height: 50%;
     }
-    
-    .grid2__left_top{
+
+    .grid2__left_top {
         padding: 0.5em;
         padding-bottom: 0em;
     }
-    
-    .grid2__left_top img{
+
+    .grid2__left_top img {
         height: 100%;
         width: 100%;
     }
-    
-    
-    .grid2__left_bottom{
+
+
+    .grid2__left_bottom {
         padding: 0.5em;
     }
 
-    .grid2__left_bottom p{
+    .grid2__left_bottom p {
         font-size: 0.5rem;
     }
-    
-    .grid2__right{
+
+    .grid2__right {
         padding: 0.5em;
-    
+
     }
-    
-    .grid2__right img{
+
+    .grid2__right img {
         width: 100%;
         height: 100%;
         object-fit: cover;
         object-position: 0 25%;
-    
+
     }
 
     /* ----------------------- New Section Begins -----------------------*/
