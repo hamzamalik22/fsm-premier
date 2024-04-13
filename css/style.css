@@ -593,7 +593,7 @@ nav ul li:nth-child(5){
 
 .grid4__left h1{
     font-family: var(--head-font);
-    letter-spacing: -2px;
+    letter-spacing: -1px;
     padding-top: 6px;
 }
 
