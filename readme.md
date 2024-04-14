@@ -38,7 +38,9 @@ If you have suggestions for improvements, find any bugs, or want to discuss fron
 Next Steps
 This project marks a significant milestone in my frontend journey. Stay tuned for more projects as I continue to advance my skills and explore new frontend technologies.
 
-Connect With Me
-Let's connect on LinkedIn to stay updated on this and other frontend projects I'm working on.
+## Connect With Me
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/hamzamalik22) to stay updated on my frontend series projects and other web development endeavors.
 
 Happy coding! 🌟
+
