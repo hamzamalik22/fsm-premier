@@ -32,10 +32,12 @@ git clone https://github.com/hamzamalik22/fsm-premier.git
 
 Open the index.html file in your web browser to view the modeling website homepage.
 
-Get Involved
+## Get Involved
+
 If you have suggestions for improvements, find any bugs, or want to discuss frontend development, please open an issue or reach out to me. Feedback and contributions are highly appreciated!
 
-Next Steps
+## Next Steps
+
 This project marks a significant milestone in my frontend journey. Stay tuned for more projects as I continue to advance my skills and explore new frontend technologies.
 
 ## Connect With Me
